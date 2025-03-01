@@ -1,0 +1,25 @@
+#LBB-logo {
+    width: 100%;
+    max-width: 512px;
+}
+
+#LBB-layout {
+    width: 100%;
+    max-width: 1024px;
+}
+
+#NB3-body {
+    width: 100%;
+    max-width: 512px;
+}
+
+#LBB-link, #LBB-link:visited {
+    color: rgb(71, 71, 71);
+    text-decoration: underline;
+    font-weight: bold;
+}
+  
+#LBB-link:hover{
+    text-decoration: none;
+}
+  

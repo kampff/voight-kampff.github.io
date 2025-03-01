@@ -1,0 +1,77 @@
+/* General Styles */
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f5f5f5;
+    color: #333;
+    text-align: center;
+    padding: 0px;
+}
+
+/* Content Container */
+.container {
+    max-width: 920px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    margin: 20px auto; /* Adds space above and below */
+    padding: 20px 150px; /* Inset text slightly */
+    max-width: 85%; /* Prevents it from being too wide */
+    text-align: center;
+}
+
+/* Paragraphs */
+p {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #444;
+}
+
+/* Links (Bold and Black) */
+a {
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Divider */
+hr {
+    border: 1px solid #ddd;
+    margin: 30px 0;
+}
+
+/* Footer */
+.container p:last-child {
+    font-weight: bold;
+    color: #555;
+}
+
+/* Responsive Design */
+@media screen and (max-width: 600px) {
+    .container {
+        width: 90%;
+        padding: 15px;
+    }
+
+    h2 {
+        font-size: 22px;
+        max-width: 95%;
+        padding: 10px;
+    }
+
+    p {
+        font-size: 14px;
+    }
+}
