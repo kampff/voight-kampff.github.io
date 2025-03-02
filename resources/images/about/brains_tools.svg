@@ -32,7 +32,7 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg5" />
+     inkscape:current-layer="g2" />
   <defs
      id="defs2">
     <linearGradient
@@ -146,28 +146,29 @@
       <g
          id="g137953-4"
          transform="rotate(180,105.68424,144.78845)"
-         clip-path="url(#clipPath140895)">
+         clip-path="url(#clipPath140895)"
+         style="stroke:none">
         <circle
-           style="fill:#cb5084;fill-opacity:1;fill-rule:evenodd;stroke:url(#radialGradient26485-9);stroke-width:2.765;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:#cb5084;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.765;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="path20266-8"
            cx="105"
            cy="148.5"
            r="51.747341" />
         <circle
-           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.239126"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.239126;stroke:none"
            id="path20264-7"
            cx="107.51335"
            cy="145.45749"
            r="43.522808" />
         <rect
-           style="fill:#ffffff;fill-opacity:1;stroke-width:0.195956"
+           style="fill:#ffffff;fill-opacity:1;stroke-width:0.195956;stroke:none"
            id="rect22441-3-1"
            width="74.639763"
            height="30.193741"
            x="102.90705"
            y="126.81337" />
         <rect
-           style="fill:#ffffff;fill-opacity:1;stroke-width:0.436265"
+           style="fill:#ffffff;fill-opacity:1;stroke-width:0.436265;stroke:none"
            id="rect22441-3-4-7"
            width="158.27626"
            height="70.575699"
@@ -189,9 +190,9 @@
            style="font-style:normal;font-weight:normal;font-size:64px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect3663);display:inline;fill:#3559bc;fill-opacity:1;stroke:none"><tspan
              x="18.154297"
              y="536.95195"
-             id="tspan4"><tspan
+             id="tspan2"><tspan
                style="font-weight:bold;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold'"
-               id="tspan3">BRAINS</tspan></tspan></text>
+               id="tspan1">BRAINS</tspan></tspan></text>
       </a>
       <a
          xlink:href="technology.html"
