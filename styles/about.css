@@ -1,8 +1,8 @@
-/* SVG Styling */
-svg {
+#brains-tools {
     display: block;
-    margin: 20px 0px;
-    max-width: 300px;
+    margin: 10px auto 0px; /* Top: 10px, Left/Right: auto, Bottom: 5px */
+    width: 100%;
+    max-width: 500px; /* Adjust as needed */
 }
 
 /* Foundation Logo */
